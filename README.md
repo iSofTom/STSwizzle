@@ -37,7 +37,7 @@ This method allow to replace a method on an instance. When the selector passed i
 ## Installation
 
 To include this component in your project, I recommend you to use [Cocoapods](http://cocoapods.org):
-_this component will be soon available via cocoapods_.
+* Add `pod "STSwizzle"` to your Podfile.
 
 ## How does it work ?
 
